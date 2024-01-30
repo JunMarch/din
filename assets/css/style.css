@@ -307,8 +307,4 @@ ul li{
   font-weight:400;
   color : gray;
 }
-@media screen (width >= 600px){
-body {
-    padding :30px;
-}
-}
+
