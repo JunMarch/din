@@ -305,6 +305,6 @@ ul{
 ul li{
   font-family: var(--fm);
   font-weight:400;
-  color : gray;
+  color : var(--text);
 }
 
